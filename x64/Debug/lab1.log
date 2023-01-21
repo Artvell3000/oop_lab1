@@ -1,0 +1,7 @@
+﻿  lab1.cpp
+C:\Projects\DevCourse\Lab-2\lab1\lab1.cpp(26,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\DevCourse\Lab-2\lab1\lab1.cpp(32,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\DevCourse\Lab-2\lab1\lab1.cpp(45,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\DevCourse\Lab-2\lab1\lab1.cpp(52,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\DevCourse\Lab-2\lab1\lab1.cpp(73,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab1.vcxproj -> C:\Projects\DevCourse\Lab-2\lab1\x64\Debug\lab1.exe
